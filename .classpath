@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AppiumFramework/src/main/java"/>
+	<classpathentry kind="src" path="AppiumFramework/src/test/java"/>
+	<classpathentry kind="src" path="myTest/src/main/java"/>
+	<classpathentry kind="src" path="myTest/src/test/java"/>
+	<classpathentry kind="src" path="Selenium/src/main/java"/>
+	<classpathentry kind="src" path="Selenium/src/test/java"/>
+	<classpathentry kind="output" path="AppiumFramework/target/classes"/>
+</classpath>
