@@ -101,5 +101,5 @@ public class myCodePractice {
         }
     }
 
-//Check why all methods have to be in statis 
+//Check why all methods have to be in statis
 }
